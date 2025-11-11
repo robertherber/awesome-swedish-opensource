@@ -23,7 +23,10 @@
 - [Doppler](https://github.com/DanielRapp/doppler) ★2,122
 - [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons) ★1,961
 - [brand-colors](https://github.com/reimertz/brand-colors) ★525
+- [@kingstinct/react-native-healthkit](https://github.com/kingstinct/react-native-healthkit) ★325
+- [react-native-health-connect](https://github.com/matinzd/react-native-health-connect) ★295
 - [jsPDF-AutoTable](https://github.com/simonbengtsson/jsPDF-AutoTable) ★208
+- [react-native-device-activity](https://github.com/kingstinct/react-native-device-activity) ★51
 
 ## Java
  - [Neo4j](https://github.com/neo4j/neo4j) ★2,797
