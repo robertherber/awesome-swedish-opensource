@@ -26,7 +26,7 @@
 - [@kingstinct/react-native-healthkit](https://github.com/kingstinct/react-native-healthkit) ★325
 - [react-native-health-connect](https://github.com/matinzd/react-native-health-connect) ★295
 - [jsPDF-AutoTable](https://github.com/simonbengtsson/jsPDF-AutoTable) ★208
-- [react-native-device-activity](https://github.com/kingstinct/react-native-device-activity) ★51
+- [react-native-device-activity](https://github.com/kingstinct/react-native-device-activity) ★127
 
 ## Java
  - [Neo4j](https://github.com/neo4j/neo4j) ★2,797
